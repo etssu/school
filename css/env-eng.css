@@ -1,0 +1,10 @@
+.about {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 20px;
+}
+
+p {
+  font-size: larger;
+}
